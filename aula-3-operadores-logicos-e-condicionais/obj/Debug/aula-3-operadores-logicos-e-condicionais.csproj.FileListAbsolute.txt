@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\aula-3-operadores-logicos-e-condicionais\aula-3-operadores-logicos-e-condicionais\bin\Debug\aula-3-operadores-logicos-e-condicionais.exe.config
+C:\Users\nicol\source\repos\aula-3-operadores-logicos-e-condicionais\aula-3-operadores-logicos-e-condicionais\bin\Debug\aula-3-operadores-logicos-e-condicionais.exe
+C:\Users\nicol\source\repos\aula-3-operadores-logicos-e-condicionais\aula-3-operadores-logicos-e-condicionais\bin\Debug\aula-3-operadores-logicos-e-condicionais.pdb
+C:\Users\nicol\source\repos\aula-3-operadores-logicos-e-condicionais\aula-3-operadores-logicos-e-condicionais\obj\Debug\aula-3-operadores-logicos-e-condicionais.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-3-operadores-logicos-e-condicionais\aula-3-operadores-logicos-e-condicionais\obj\Debug\aula-3-operadores-logicos-e-condicionais.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-3-operadores-logicos-e-condicionais\aula-3-operadores-logicos-e-condicionais\obj\Debug\aula-3-operadores-logicos-e-condicionais.exe
+C:\Users\nicol\source\repos\aula-3-operadores-logicos-e-condicionais\aula-3-operadores-logicos-e-condicionais\obj\Debug\aula-3-operadores-logicos-e-condicionais.pdb
